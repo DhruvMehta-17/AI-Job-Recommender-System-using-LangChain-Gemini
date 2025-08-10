@@ -1,0 +1,6 @@
+title,company,location,type,description,url
+Data Analyst,TechCorp,New York,Full-time,"Analyze business data using SQL, Python, and visualization tools.","https://example.com/jobs/data-analyst"
+Machine Learning Engineer,AI Innovations,Remote,Full-time,"Build ML models for NLP and computer vision tasks.","https://example.com/jobs/ml-engineer"
+Data Scientist,HealthAI,Boston,Contract,"Develop predictive models for healthcare analytics.","https://example.com/jobs/data-scientist"
+Backend Developer,CodeBase,San Francisco,Internship,"Work on API development and database optimization.","https://example.com/jobs/backend-developer"
+Business Analyst,FinTech Pro,London,Part-time,"Support decision-making through data analysis and reporting.","https://example.com/jobs/business-analyst"

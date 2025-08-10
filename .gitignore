@@ -1,0 +1,55 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Virtual Environments ---
+venv/
+myenv/
+env/
+.venv/
+
+# --- Streamlit Cache ---
+.streamlit/
+**/.streamlit/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Environment variables ---
+.env
+.env.local
+.env.production
+.env.development
+
+# --- API Keys ---
+*.key
+*.pem
+secrets.json
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- Temporary Files ---
+*.tmp
+*.temp
+
+# --- PDFs & Resumes ---
+uploads/
+*.pdf
+*.txt
